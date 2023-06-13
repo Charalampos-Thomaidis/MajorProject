@@ -1,2 +1,2 @@
 # MajorProject
-a 2D platform game made in unity for my major project.
+a 2D platform game made in unity from my major project.
